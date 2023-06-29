@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@700&family=Roboto+Serif&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: Verdana, sans-serif;
+
+}
+
+html,body {
+  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  font-family: Verdana, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #8EA7E9;
+    z-index: 2;
+    margin-bottom: 50px;
+  }
+  
+  .topnav .home {
+    float: left;
+    display: block;
+    color: #ddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  span {
+    color: #116A7B;
+    font-family: 'Montserrat', sans-serif;
+}
+  .topnav a {
+    float: right;
+    display: block;
+    color: #ddd;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  
+  .topnav .act:hover {
+    background-color: black;
+    color: white;
+  }
+  
+
+  .topnav .act.active {
+    background-color: green;
+    color: white;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+
+  
+  @media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
+
+  /* verical navbar */
+
+  #navbar {
+    position: fixed;
+    min-width: 290px;
+    text-align:center;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+  }
+
+  header {
+    color:black;
+    margin: 10px;
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: thin;
+  }
+  
+  #main-doc header {
+    font-family: 'Dosis', sans-serif;
+    font-size: 35px;
+    color:#3498DB;
+    text-align: left;
+    margin: 0px;
+  }
+  
+  #navbar ul {
+    height: 88%;
+    padding: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  
+  
+  #navbar li {
+    color: #4d4e53;
+    border-top: 1px solid;
+    list-style: none;
+    position: relative;
+    width: 100%;
+  }
+  
+  #navbar a {
+    display: block;
+    padding: 10px 30px;
+    color: #4d4e4d;
+    font-weight:520;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #navbar li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+
+  #navbar li a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  #main-doc {
+    position: absolute;
+    top: 50px;
+    margin-left: 310px;
+    padding: 20px;
+    margin-bottom: 110px;
+  }
+  
+  section article {
+    color: #4d4e53;
+    margin: 15px;
+    font-size: 0.96em;
+  }
+
+  @media only screen and (max-width: 815px) {
+    /* For mobile phones: */
+    #navbar ul {
+      border: 1px solid;
+      height: 207px;
+    }
+
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+  
+    #navbar {
+      background-color: white;
+      position: absolute;
+      padding: 0;
+      margin: 0;
+      width: 100%;
+      max-height: 275px;
+      border: none;
+      z-index: 1;
+      border-bottom: 2px solid;
+    }
+  
+    #main-doc {
+      position: relative;
+      margin-left: 0px;
+      margin-top: 270px;
+    }
+  }
+  
+  @media only screen and (max-width: 400px) {
+    #main-doc {
+      margin-left: -10px;
+    }
+
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+
+    code {
+      margin-left: -20px;
+      overflow: hidden;
+      text-overflow: ellipsis; 
+      width: 100%;
+      padding: 10px;
+      padding-left: 10px;
+      padding-right: 45px;
+      min-width: 233px;
+    }
+    #main-doc header {
+      font-size:25px;
+    }
+    #navbar header{
+      font-size:20px;
+      text-align:center;
+      box-sizing: border-box;
+    }
+    #navbar {
+      width: 100%;
+      max-height: 250px;
+    }
+  }
+  
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
