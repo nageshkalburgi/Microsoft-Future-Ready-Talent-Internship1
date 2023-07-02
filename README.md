@@ -6,7 +6,7 @@ Website Link : https://orange-flower-000144b10.3.azurestaticapps.net/
 Deployed form Github Link :  https://nageshkalburgi.github.io/Microsoft-Future-Ready-Talent-Internship1/
 
 _______________________________________________________________________________________________________________________________
-                                  <h2>Future Ready Talent Internship</h2>
+                                  #Future Ready Talent Internship
 _______________________________________________________________________________________________________________________________
 Industry Type* : Ed-Tech
 
