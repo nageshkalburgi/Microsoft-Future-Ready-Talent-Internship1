@@ -38,6 +38,8 @@ Overall, the project's purpose, functionality, and approach align with the probl
 ____________________________________________________________________________________________________________________________
 
 Primary Azure Technology* : Static Web Apps , Azure Resource Mover, Storage Account 
+__________________________________________________________________________________________________________________________
+Project Demo URL using Azure services: https://orange-flower-000144b10.3.azurestaticapps.net/
 ___________________________________________________________________________________________________________________________
 Project Demo Video URL* : https://drive.google.com/file/d/1aCqVN8bOLHOLAWFT_VhZ4OAzbeIQ7mnC/view?usp=sharing
 __________________________________________________________________________________________________________________________
