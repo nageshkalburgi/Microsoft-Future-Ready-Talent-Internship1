@@ -45,3 +45,9 @@ Project Demo URL using Azure services: https://orange-flower-000144b10.3.azurest
 ___________________________________________________________________________________________________________________________
 Project Demo Video URL* : https://drive.google.com/file/d/17uxJqyqx5cBVa2NuHmjtuvFnGtkpJLne/view
 __________________________________________________________________________________________________________________________
+My Azure Subscription is Disabled- Azure for students credit has expired
+![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/f1634521-f95b-4c66-9aa4-b904029aa868)
+
+Azure for students credit has expired
+![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/ba164e95-9e5c-4a82-938c-84d5de9aba97)
+
