@@ -54,3 +54,8 @@ Azure for students credit has expired
 
 ![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/ba164e95-9e5c-4a82-938c-84d5de9aba97)
 
+Previous Mail suggestion from FRT
+
+![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/cf8ec9e4-45be-4ba7-a4fe-05bfde595c21)
+
+
