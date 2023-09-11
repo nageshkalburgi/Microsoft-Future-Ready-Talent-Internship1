@@ -58,4 +58,24 @@ Previous Mail suggestion from FRT
 
 ![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/cf8ec9e4-45be-4ba7-a4fe-05bfde595c21)
 
+_______________________________________________________________________________________________________
+About Team Member
+Team Leader: Nagesh Basawaraj Kalburgi
+E-mail: nageshkalburgi9665@gmail.com
+GitHub Link: https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1
+
+Team Members:
+
+Nagesh Ambadas Kassa -
+E-mail: kassaambadas40@gmail.com
+GitHub: https://github.com/Nageshkassa/Microsoft-Future-Ready-Talent-Internship1
+
+Rohan Vithal Jadhav
+E-mail: rohanjadhav2326@gmail.com
+GitHub: https://github.com/RohanJadhav2326/Microsoft-Future-Ready-Talent-Internship1
+
+Shruti Mrutyunjay Wadikar
+E-mail: shrutiwadikar11@gmail.com
+GitHub: https://github.com/ShrutiWadikar/Microsoft-Future-Ready-Talent-Internship1
+
 
