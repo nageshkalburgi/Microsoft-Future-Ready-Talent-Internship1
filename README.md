@@ -58,6 +58,11 @@ Previous Mail suggestion from FRT
 
 ![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/cf8ec9e4-45be-4ba7-a4fe-05bfde595c21)
 
+Azure service used 
+
+![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/a3b10125-2545-432d-bcb6-76ea5fd92632)
+
+
 _______________________________________________________________________________________________________
 About Team Member
 Team Leader: Nagesh Basawaraj Kalburgi
