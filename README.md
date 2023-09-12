@@ -62,6 +62,12 @@ Azure Bot service used
 
 ![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/05848acb-7162-496b-bf73-8e0ba874e5f9)
 
+Azure Static web App 
+
+![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/a10ebb7c-b8e4-49cb-a4e3-6b717953c93b)
+
+![image](https://github.com/nageshkalburgi/Microsoft-Future-Ready-Talent-Internship1/assets/114789712/421b2d95-4c43-45b8-bb1f-dd81ee71f04c)
+
 
 
 _______________________________________________________________________________________________________
